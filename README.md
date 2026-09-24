@@ -1,2 +1,3 @@
-# AetherCircleCLI
-Versioned release source and distribution repository for the AetherCircle command-line tool.
+# AetherCircle CLI preview
+
+The command-line tool currently prints `Soon to be released` for every invocation.
