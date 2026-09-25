@@ -1,4 +1,4 @@
-# AetherCircle CLI
+# AetherCircleCLI
 
 <https://github.com/Zodiac-Innovations/AetherCircleCLI>
 
