@@ -19,4 +19,6 @@ aethercircle avp create
 aethercircle avp ide
 ```
 
-`init` writes the shared project and downloads the editable starter below. The project `.info` file defaults to the public AetherCircle framework repository on `main`; edit `repo` and `branch` to use an experiment. The platform `create` command generates the native project, which you compile in the appropriate IDE. Re-run `create -d` to regenerate after changing the framework selection.
+`init` writes the shared project and downloads the editable starter below. The project `.info` file defaults to the AetherCircle framework repository on `main`; edit `repo` and `branch` to use an experiment. The platform `create` command generates the native project, which you compile in the appropriate IDE. Re-run `create -d` to regenerate after changing the framework selection.
+
+**Repository access:** The default AetherCircle framework repository is currently private. Developers need permission to access it when creating AVP or Quest projects. Make it public before offering this workflow to first-time developers outside the organization.
