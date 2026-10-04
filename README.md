@@ -2,7 +2,7 @@
 
 <https://github.com/Zodiac-Innovations/AetherCircleCLI>
 
-The executable in this repository is published from the corresponding Development repository.
+Versioned release source and distribution repository for the AetherCircle command-line tool.
 
 
 ## Editable shared starter template
